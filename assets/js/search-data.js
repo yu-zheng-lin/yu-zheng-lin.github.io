@@ -35,15 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-yu-zheng-lin-has-been-competitively-selected-for-and-completed-the-ci-pathways-machine-learning-amp-amp-ai-track-a-training-program-jointly-organized-by-the-national-center-for-supercomputing-applications-ncsa-and-the-pittsburgh-supercomputing-center-psc-view-certificate-pdf",
+            },},{id: "news-yu-zheng-lin-has-been-competitively-selected-for-and-completed-the-ci-pathways-machine-learning-amp-amp-ai-track-a-training-program-jointly-organized-by-the-national-center-for-supercomputing-applications-ncsa-and-the-pittsburgh-supercomputing-center-psc-view-certificate-pdf",
           title: 'Yu-Zheng Lin has been competitively selected for and completed the CI Pathways Machine...',
           description: "",
           section: "News",},{id: "projects-project-1",
