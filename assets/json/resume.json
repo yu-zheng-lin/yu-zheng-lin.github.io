@@ -178,36 +178,6 @@
       "icon": ""
     }
   ],
-  "publications": [
-    {
-      "name": "DDD-GenDT: Dynamic Data-driven Generative Digital Twin Framework",
-      "publisher": "IEEE Transactions on AI",
-      "releaseDate": "2024-01-01",
-      "url": "https://arxiv.org/abs/2501.00051",
-      "summary": "Accepted by IEEE Transactions on AI."
-    },
-    {
-      "name": "AI/ML-based detection and categorization of covert communication in IPv6 networks",
-      "publisher": "Springer Cybersecurity",
-      "releaseDate": "2025-01-01",
-      "url": "https://arxiv.org/abs/2501.10627",
-      "summary": "Accepted by Springer Cybersecurity."
-    },
-    {
-      "name": "Autonomous vehicle security: Hybrid threat modeling approach",
-      "publisher": "IEEE Open Journal of Vehicular Technology",
-      "releaseDate": "2025-01-01",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "HWREx: AI-enabled Hardware Weakness and Risk Exploration and Storytelling Framework with LLM-assisted Mitigation Suggestion",
-      "publisher": "ACM Transactions on Design Automation of Electronic Systems",
-      "releaseDate": "2025-01-01",
-      "url": "",
-      "summary": "Authors contributed equally."
-    }
-  ],
   "skills": [
     {
       "name": "Programming",

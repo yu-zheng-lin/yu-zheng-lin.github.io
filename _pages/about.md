@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Tucson, Arozona 12345</p>
+    <p>ENG 257</p>
+    <p>1127 E. James E. Rogers Way P.O. Box 210020</p>
+    <p>Tucson, AZ 85721-0020</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
