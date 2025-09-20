@@ -23,4 +23,3 @@ announcements:
 ---
 
 Yu-Zheng Lin is a Ph.D. candidate in the Electrical and Computer Engineering at the University of Arizona. He received his M.S. degree from the National Taiwan University of Science and Technology (TaiwanTech). Previously, he worked as a research assistant at the National Synchrotron Radiation Research Center in Taiwan. His research interests include signal processing, control systems, complex systems, artificial intelligence, and cyber-physical security.
-
