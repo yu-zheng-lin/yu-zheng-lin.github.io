@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "yu-zheng-lin/yu-zheng-lin",
+    "data-repo": "yu-zheng-lin/yu-zheng-lin.github.io",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",

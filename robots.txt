@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yu-zheng-lin.github.io/yu-zheng-lin//sitemap.xml
+Sitemap: https://yu-zheng-lin.github.io//sitemap.xml
