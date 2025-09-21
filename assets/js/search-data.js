@@ -18,72 +18,24 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "news-yu-zheng-lin-has-been-selected-for-and-completed-the-codas-hep-computational-and-data-science-for-high-energy-physics-program-at-princeton-university-with-full-travel-funding-support-the-program-focused-on-advanced-high-performance-computing-topics-including-machine-learning-parallel-computing-and-large-scale-data-processing-more-detail",
+          title: 'Yu-Zheng Lin has been selected for and completed the CoDaS-HEP (Computational and Data...',
           description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-yu-zheng-lin-has-been-competitively-selected-for-and-completed-the-ci-pathways-machine-learning-amp-amp-ai-track-a-training-program-jointly-organized-by-the-national-center-for-supercomputing-applications-ncsa-and-the-pittsburgh-supercomputing-center-psc-view-certificate-pdf",
+          section: "News",},{id: "news-yu-zheng-lin-received-the-outstanding-teaching-assistant-award-from-the-university-of-arizona-college-of-engineering-course-ece-513-web-development-and-the-internet-of-things-more-detail",
+          title: 'Yu-Zheng Lin received the Outstanding Teaching Assistant Award from the University of Arizona...',
+          description: "",
+          section: "News",},{id: "news-yu-zheng-lin-serving-as-principal-investigator-pi-has-been-awarded-acceptance-into-the-openai-researcher-access-program-the-award-provides-2000-in-api-credits-to-support-research-on-large-language-model-llm-stability-with-applications-to-high-performance-computing-digital-twins-and-cybersecurity",
+          title: 'Yu-Zheng Lin, serving as Principal Investigator (PI), has been awarded acceptance into the...',
+          description: "",
+          section: "News",},{id: "news-yu-zheng-lin-has-been-competitively-selected-for-and-completed-the-ci-pathways-machine-learning-amp-amp-ai-track-a-training-program-jointly-organized-by-the-national-center-for-supercomputing-applications-ncsa-and-the-pittsburgh-supercomputing-center-psc-view-certificate-pdf",
           title: 'Yu-Zheng Lin has been competitively selected for and completed the CI Pathways Machine...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project.html";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
