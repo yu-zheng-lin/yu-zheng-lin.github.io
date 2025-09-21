@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ece.engineering.arizona.edu/'>Electrical and Computer Engineering - The University of Arizona</a>. <br><a href="mailto:yuzhenglin@arizona.edu">yuzhenglin@arizona.edu</a><br>
+subtitle: >
+ PhD Candidate <br>
+ Electrical and Computer Engineering - The University of Arizona. <br>
+ <a href="mailto:yuzhenglin@arizona.edu">yuzhenglin@arizona.edu</a><br>
 
 profile:
   align: right
