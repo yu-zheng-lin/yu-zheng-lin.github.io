@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-titled-llm-hypz-hardware-vulnerability-discovery-using-an-llm-assisted-hybrid-platform-for-zero-shot-knowledge-extraction-and-refinement-was-accepted-to-the-accepted-by-ieee-international-conference-on-data-mining-icdm-2025-workshop-llm4sec",
           title: 'My paper titled “LLM-HyPZ: Hardware Vulnerability Discovery using an LLM-Assisted Hybrid Platform for...',
           description: "",
+          section: "News",},{id: "news-my-project-toward-resilience-in-cyber-physical-systems-a-generative-digital-twin-enabled-dynamic-data-driven-framework-for-decision-making-under-uncertainty-has-been-awarded-an-nsf-access-explorer-allocation-of-200-000-credits-equivalent-to-5-000-based-on-cloudbank-exchange-rates-i-serve-as-the-principal-investigator-pi-on-this-project",
+          title: 'My project, Toward Resilience in Cyber-Physical Systems: A Generative Digital Twin–Enabled Dynamic Data-Driven...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
