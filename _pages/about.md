@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: >
- PhD Candidate <br>
  Electrical and Computer Engineering - The University of Arizona. <br>
  <a href="mailto:yuzhenglin@arizona.edu">yuzhenglin@arizona.edu</a><br>
 
@@ -25,4 +24,6 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 ---
 
-Yu-Zheng Lin is a Ph.D. candidate in the Electrical and Computer Engineering at the University of Arizona. He received his M.S. degree from the National Taiwan University of Science and Technology (TaiwanTech). Previously, he worked as a research assistant at the National Synchrotron Radiation Research Center in Taiwan. His research interests include signal processing, control systems, complex systems, artificial intelligence, and cyber-physical security.
+Yu-Zheng Lin received his Ph.D. in Electrical and Computer Engineering from the University of Arizona and his M.S. degree from the National Taiwan University of Science and Technology (TaiwanTech). He previously worked as a research assistant at the National Synchrotron Radiation Research Center in Taiwan.
+
+His research lies at the intersection of artificial intelligence and complex systems, with expertise in large language models, cyber-physical systems, signal processing, control systems, digital twins, human-centered AI, and cyber-physical security. He has published 15+ peer-reviewed papers, including first-author work accepted to ACL 2026 and publications in IEEE/ACM Transactions. He has also served as Principal Investigator for NSF ACCESS Explore computing credits and the OpenAI Researcher Access Program, supporting large-scale research in AI, digital twins, and LLM robustness.
