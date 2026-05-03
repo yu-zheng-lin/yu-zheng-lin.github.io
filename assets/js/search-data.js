@@ -44,6 +44,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-project-toward-resilience-in-cyber-physical-systems-a-generative-digital-twin-enabled-dynamic-data-driven-framework-for-decision-making-under-uncertainty-has-been-awarded-an-nsf-access-explorer-allocation-of-200-000-credits-equivalent-to-5-000-based-on-cloudbank-exchange-rates-i-serve-as-the-principal-investigator-pi-on-this-project",
           title: 'My project, Toward Resilience in Cyber-Physical Systems: A Generative Digital Twin–Enabled Dynamic Data-Driven...',
           description: "",
+          section: "News",},{id: "news-our-paper-llm-mc-affect-llm-based-monte-carlo-modeling-of-affective-trajectories-and-latent-ambiguity-for-interpersonal-dynamic-insight-has-been-accepted-to-the-acl-2026-main-conference-i-am-honored-to-serve-as-the-first-author-of-this-work-acl-2026-received-12-148-submissions-with-19-accepted-as-main-papers-and-18-accepted-to-findings-our-paper-was-also-ranked-within-the-top-50-of-accepted-papers-more-detail",
+          title: 'Our paper, “LLM-MC-Affect: LLM-Based Monte Carlo Modeling of Affective Trajectories and Latent Ambiguity...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
